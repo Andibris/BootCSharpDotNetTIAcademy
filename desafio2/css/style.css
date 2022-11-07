@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+#principal {
+    width: 25%;
+    height: 205px;
+    margin: 250px auto;
+    border: 2px solid rgb(100,120,100);
+    position: relative;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 1em;
+    padding: 10px 12px;
+    color:rgb(49, 48, 58)
+}
+
+#Entrar {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 15px auto;
+    border: 1px solid rgb(100,120,100);
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgb(50,120,120);
+    box-shadow: 1px 1px rgb(49, 48, 58);
+    text-decoration: none;
+    padding: 0 2px;
+}
+#centralizar {
+    width: 44px;
+    height: auto;
+    margin: 13px auto;
+    
+}
+#Entrar:hover{
+    text-decoration: none;
+    color: rgb(22, 55, 154);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.box1 {
+    position: relative;
+    width: 100%;
+    height: 30px;
+    border: 1px solid rgb(100,120,100);
+    margin: 3px auto;
+    box-shadow: 1px 1px rgb(100,120,100);
+    padding: 0 2px;
+}

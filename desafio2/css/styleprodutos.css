@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+}
+
+#box {
+    padding: 0;
+    position: absolute;
+    width: 15%;
+    height: 100vh;
+    border-right: 3px solid grey;
+}
+
+.link {
+    width: 13%;
+    height: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 1em;
+    color:rgb(49, 48, 58);
+    margin: 2px;
+    padding: 2px 3px 0;
+}
+
+.menu {
+    position: absolute;
+    width: 4%;
+    height: auto;
+    color: rgb(49, 48, 58);
+    text-decoration: none;
+    margin-top: 5px;
+    padding-left: 5px;
+    background-color: #fff;
+}
+
+.link:hover, .menu:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color:rgb(50,120,120);
+    border-radius: 5px;
+}
+
+.conteudo {
+    color: rgb(49, 48, 58);
+    width: 25%;
+    height: 340px;
+    margin: auto auto;
+    border: 2px solid rgb(49, 48, 58);
+    border-radius: 10px;
+    
+}
+
+.nome {
+    display: flexbox;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    text-decoration: underline;
+    color: rgb(49, 48, 58);
+    margin: 10px;
+    width: 30%;
+    padding-left: 10px;
+}
+
+.label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#fechar {
+    display: flexbox;
+    text-decoration: none;
+    position:relative;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+    font-weight: bolder;
+    color: red;
+    float: right;
+    margin-right: 20px;
+    margin-top: -35px;
+}
+
+#cadastro {
+    padding: 5px 20px;
+    color: rgb(49, 48, 58);
+}
+
+.form {
+    border: 1px solid rgb(49, 48, 58);
+    border-radius: 5px;
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+
+.btnbox {
+    flex-direction: row;
+    width: 15%;
+    height: 35px;
+    border: 1px solid rgb(50,120,120);
+    background-color: rgb(50,120,120);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btncadastro {
+    margin-top: 5px;
+    flex-direction: row;
+    width: 30%;
+    height: 35px;
+    color: #fff;
+    border-radius: 5px;
+    background-color: rgb(64, 96, 183);
+    border: 1px solid rgb(64, 96, 183);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#btnsalvar {
+    background-color: rgb(87, 171, 56);
+}
+
+.botao {
+    font-size: medium;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#fff;
+}

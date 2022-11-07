@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos</title>
+    <link rel="stylesheet" href="css/styleprodutos.css">
+    <link rel="stylesheet" href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"/>
+    <link rel="stylesheet" href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,300,1,-25"/>
+    <script src="script/produtos.js"></script>
+</head>
+<body>
+    <div id="box"></div>
+    <div class="link">
+        <a href="clientes.html" class="link">
+            <span class="material-symbols-outlined">group_add</span> 
+            <input type="submit" value="Clientes" name="Clientes" class="menu">
+        </a>
+    </div>
+    <div class="link">
+        <a href="produtos.html" class="link">
+            <span class="material-symbols-outlined">redeem</span>
+            <input type="submit" value="Produtos" name="Produtos" class="menu">
+        </a>
+    </div>
+    <div class="link">
+        <a href="pedidos.html" class="link">
+            <span class="material-symbols-outlined">shopping_cart </span>
+            <input type="submit" value="Pedidos" name="Pedidos" class="menu">
+        </a>
+    </div>
+    <div class="conteudo">
+        <div class="nome">Produtos</div>
+        <div><a href="painel.html" id="fechar">x</a></div>
+        <div id="cadastro">
+            <div class="label">Código</div>
+            <input type="text" name="codigo" id="codigo" class="form" disabled>
+            <div class="label">Descrição</div>
+            <input type="text" name="descricao" id="desc" class="form" disabled>
+            <div class="label">Preço</div>    
+            <input type="text" name="preco" id="preco" class="form" disabled>
+            <div class="label">Quantidade</div>    
+            <input type="text" name="quantidade" id="qtde" class="form" disabled>
+            <div class="botoes">
+                <button type="button" class="btnbox" class="botao" id="anterior">&lt</button>
+                <button type="button" class="btnbox" class="botao" id="proximo">&gt</button>
+                <button type="button" class="btncadastro" class="botao" id="cadastrar">Novo</button>
+                <button type="button" class="btncadastro" id="btnsalvar" class="botao" itemid="btnsalvar">Salvar</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
