@@ -1,0 +1,15 @@
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\bin\Debug\net6.0\DesafioCSharp1.exe
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\bin\Debug\net6.0\DesafioCSharp1.deps.json
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\bin\Debug\net6.0\DesafioCSharp1.runtimeconfig.json
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\bin\Debug\net6.0\DesafioCSharp1.dll
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\bin\Debug\net6.0\DesafioCSharp1.pdb
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.csproj.AssemblyReference.cache
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.AssemblyInfoInputs.cache
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.AssemblyInfo.cs
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.csproj.CoreCompileInputs.cache
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.dll
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\refint\DesafioCSharp1.dll
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.pdb
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\DesafioCSharp1.genruntimeconfig.cache
+C:\Users\anderson.brischiliar\Desktop\CSharp\DesafioCSharp1\obj\Debug\net6.0\ref\DesafioCSharp1.dll
